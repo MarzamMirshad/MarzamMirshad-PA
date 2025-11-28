@@ -1,36 +1,52 @@
-# 👋 Hi, I’m Marzam Mirshad  
+# MarzamMirshad-PA
 
- **Aspiring Data Analyst** | Power BI • SQL • Excel • Data Visualization  
+# 👋 Hi, I’m **Marzam Mirshad**  
+**Aspiring Data Analyst** | Power BI • SQL • Excel • Python • Tableau • Data Visualization  
 
-I’m passionate about turning raw data into meaningful insights and building dashboards that tell a story. Currently, I’m learning and sharing projects in **Power BI** and **data analytics**.  
-
----
-
-##  Skills & Tools  
--  Power BI  
--  SQL  
--  Excel  
--  Data Cleaning & Analysis  
--  Data Visualization & Reporting  
+I’m passionate about transforming raw data into meaningful insights and building dashboards that help businesses make better decisions.  
+Currently learning and building projects in **Power BI, Python, SQL, Tableau**, and **Excel analytics**.
 
 ---
 
-##  Featured Projects  
--  **[Sales Dashboard](https://github.com/MarzamMirshad/Powerbi-Project)** – Interactive sales insights  
--  **Social Media Dashboard** – Engagement & performance analysis  
--  **Restaurant Sales** – Revenue trends and KPIs  
+## 🚀 Skills & Tools
+- **Power BI** – Dashboards & Data Modeling  
+- **SQL** – Queries, Joins, CTEs, Aggregations  
+- **Excel** – Pivot Tables, Lookups, Cleaning  
+- **Python** – Pandas, NumPy, Matplotlib  
+- **Tableau** – Data Visualization & Storytelling  
+- **Data Cleaning & Analysis**  
+- **Data Reporting & Insights**  
 
 ---
 
-##  GitHub Stats  
-![Marzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzamMirshad&show_icons=true&theme=tokyonight)  
+## 📌 Featured Projects
+- **[Sales Dashboard (Power BI)](https://github.com/MarzamMirshad/Powerbi-Project)**  
+  Interactive dashboard showcasing sales performance, KPIs, and trends.
+
+- **Social Media Dashboard (Power BI)**  
+  Engagement metrics and performance visualization.
+
+- **Restaurant Sales Analysis (Excel/Power BI)**  
+  Revenue trends, customer insights, and KPI reporting.
+
+- **Python Data Cleaning Project (Python)**  
+  Cleaning and analyzing datasets using Pandas & NumPy.
+
+- **Tableau Superstore Dashboard (Tableau)**  
+  Sales & profit insights using storytelling dashboards.
 
 ---
 
-##  Connect with Me  
+## 📊 GitHub Stats
+![Marzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarzamMirshad&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/marzam-mirshad-4a885a36a)  
-- 📧 Email: marzammirshad60@gmail.com  
+- 📧 Email: **marzammirshad60@gmail.com**
 
 ---
 
-⭐️ From [MarzamMirshad](https://github.com/MarzamMirshad)
+⭐️ *From [MarzamMirshad](https://github.com/MarzamMirshad)*  
+
