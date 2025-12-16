@@ -8,7 +8,7 @@ Currently learning and building projects in **Power BI, Python, SQL, Tableau**, 
 
 ---
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 - **Power BI** – Dashboards & Data Modeling  
 - **SQL** – Queries, Joins, CTEs, Aggregations  
 - **Excel** – Pivot Tables, Lookups, Cleaning  
